@@ -29,7 +29,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h30th3r0n3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e" alt="Top Langs" /></td>
   </tr>
 </table>
-</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=7h30th3r0n3&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ef4444&currStreakLabel=a855f7" alt="Streak" />
@@ -43,26 +42,30 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/Evil-M5Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Evil-M5Project&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Evil-M5Project" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/Raspyjack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Raspyjack&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Raspyjack" /></a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/Evil-BW16"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Evil-BW16&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Evil-BW16" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/NanoC6-ESP32-Honeypot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=NanoC6-ESP32-Honeypot&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="NanoC6-ESP32-Honeypot" /></a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/PwnGridSpam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=PwnGridSpam&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="PwnGridSpam" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/M5PixelFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=M5PixelFlow&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="M5PixelFlow" /></a>
     </td>
   </tr>
@@ -77,10 +80,10 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/OllamaHound"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=OllamaHound&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="OllamaHound" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/MindJack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=MindJack&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="MindJack" /></a>
     </td>
   </tr>
@@ -95,34 +98,40 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/StormInk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=StormInk&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="StormInk" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/WFOP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=WFOP&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="WFOP" /></a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/adb-shot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=adb-shot&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="adb-shot" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/WifiReplay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=WifiReplay&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="WifiReplay" /></a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/RatioTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=RatioTracker&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="RatioTracker" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/Simple-Password-Session-Stealer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Simple-Password-Session-Stealer&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Simple-Password-Session-Stealer" /></a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/RTSP-Eyes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=RTSP-Eyes&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="RTSP-Eyes" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/LFI-scan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=LFI-scan&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="LFI-scan" /></a>
     </td>
   </tr>
@@ -137,10 +146,10 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/NanoC6-ESP32-Honeypot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=NanoC6-ESP32-Honeypot&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="NanoC6-ESP32-Honeypot" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/OpenCanaryChecker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=OpenCanaryChecker&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="OpenCanaryChecker" /></a>
     </td>
   </tr>
@@ -155,10 +164,10 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://github.com/7h30th3r0n3/CVE-2025-51586-PrestaShop-PoC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=CVE-2025-51586-PrestaShop-PoC&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="CVE-2025-51586" /></a>
     </td>
-    <td width="50%" bgcolor="#0d1117">
+    <td width="50%">
       <a href="https://gist.github.com/7h30th3r0n3/eae27e0eed39741365c55dfd46b57dc8"><img src="https://img.shields.io/badge/CVE--2024--42533-StandVoice%20SQLi%20(CVSS%209.8)-critical?style=for-the-badge&color=dc2626" alt="CVE-2024-42533" /></a>
       <br><br>
       <a href="https://gist.github.com/7h30th3r0n3/1a0fadb19f1528e3d3f6bad9f680c3b0"><img src="https://img.shields.io/badge/CVE--2025--63292-Freebox%20IMSI%20Leak%20(EAP--SIM)-orange?style=for-the-badge&color=ea580c" alt="CVE-2025-63292" /></a>
