@@ -23,53 +23,22 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
 </p>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=7h30th3r0n3&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e&ring_color=a855f7&count_private=true" alt="Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h30th3r0n3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e" alt="Top Langs" /></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=7h30th3r0n3&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ef4444&currStreakLabel=a855f7" alt="Streak" />
-</p>
-
 ---
 
 <h2 align="center">⚡ Hardware & Embedded Security</h2>
-<p align="center">ESP32, M5Stack, Raspberry Pi - offensive toolkits for red team operations on microcontrollers.</p>
+<p align="center">ESP32, M5Stack, Raspberry Pi - offensive toolkits for red team operations.</p>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/Evil-M5Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Evil-M5Project&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Evil-M5Project" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/Raspyjack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Raspyjack&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Raspyjack" /></a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/Evil-BW16"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Evil-BW16&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Evil-BW16" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/NanoC6-ESP32-Honeypot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=NanoC6-ESP32-Honeypot&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="NanoC6-ESP32-Honeypot" /></a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/PwnGridSpam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=PwnGridSpam&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="PwnGridSpam" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/M5PixelFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=M5PixelFlow&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="M5PixelFlow" /></a>
-    </td>
-  </tr>
-</table>
+
+| Project | Description |
+|---------|-------------|
+| [**Evil-M5Project**](https://github.com/7h30th3r0n3/Evil-M5Project) | WiFi penetration testing toolkit for M5Stack devices |
+| [**Raspyjack**](https://github.com/7h30th3r0n3/Raspyjack) | Raspberry Pi based physical attack platform |
+| [**Evil-BW16**](https://github.com/7h30th3r0n3/Evil-BW16) | BW16 WiFi security testing |
+| [**NanoC6-ESP32-Honeypot**](https://github.com/7h30th3r0n3/NanoC6-ESP32-Honeypot) | ESP32 WiFi honeypot for threat detection |
+| [**PwnGridSpam**](https://github.com/7h30th3r0n3/PwnGridSpam) | PwnGrid message spammer for Pwnagotchi |
+| [**M5PixelFlow**](https://github.com/7h30th3r0n3/M5PixelFlow) | GIF animations for M5Stack |
+
 </div>
 
 ---
@@ -78,16 +47,12 @@
 <p align="center">Offensive research on AI systems - from exposed LLM instances to agent prompt injection.</p>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/OllamaHound"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=OllamaHound&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="OllamaHound" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/MindJack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=MindJack&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="MindJack" /></a>
-    </td>
-  </tr>
-</table>
+
+| Project | Description |
+|---------|-------------|
+| [**OllamaHound**](https://github.com/7h30th3r0n3/OllamaHound) | Suite for exposed Ollama instances on the internet |
+| [**MindJack**](https://github.com/7h30th3r0n3/MindJack) | LLM local agent inspection, prompt injection & manipulation framework |
+
 </div>
 
 ---
@@ -96,46 +61,18 @@
 <p align="center">Network scanning, protocol abuse, and red team utilities.</p>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/StormInk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=StormInk&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="StormInk" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/WFOP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=WFOP&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="WFOP" /></a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/adb-shot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=adb-shot&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="adb-shot" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/WifiReplay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=WifiReplay&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="WifiReplay" /></a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/RatioTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=RatioTracker&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="RatioTracker" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/Simple-Password-Session-Stealer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=Simple-Password-Session-Stealer&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="Simple-Password-Session-Stealer" /></a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/RTSP-Eyes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=RTSP-Eyes&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="RTSP-Eyes" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/LFI-scan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=LFI-scan&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="LFI-scan" /></a>
-    </td>
-  </tr>
-</table>
+
+| Project | Description |
+|---------|-------------|
+| [**StormInk**](https://github.com/7h30th3r0n3/StormInk) | Network printer exploitation toolkit |
+| [**WFOP**](https://github.com/7h30th3r0n3/WFOP) | WiFi Offensive Platform |
+| [**adb-shot**](https://github.com/7h30th3r0n3/adb-shot) | Android screen capture & control via ADB |
+| [**WifiReplay**](https://github.com/7h30th3r0n3/WifiReplay) | WiFi deauth & replay attack tool |
+| [**RatioTracker**](https://github.com/7h30th3r0n3/RatioTracker) | Torrent tracker ratio pentesting tool |
+| [**Simple-Password-Session-Stealer**](https://github.com/7h30th3r0n3/Simple-Password-Session-Stealer) | simple linux stealer |
+| [**RTSP-Eyes**](https://github.com/7h30th3r0n3/RTSP-Eyes) | RTSP camera stream scanner & viewer |
+| [**LFI-scan**](https://github.com/7h30th3r0n3/LFI-scan) | Old Local File Inclusion vulnerability scanner |
+
 </div>
 
 ---
@@ -144,16 +81,11 @@
 <p align="center">Defensive tools for detection, monitoring, and honeypot operations.</p>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/NanoC6-ESP32-Honeypot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=NanoC6-ESP32-Honeypot&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="NanoC6-ESP32-Honeypot" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/OpenCanaryChecker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=OpenCanaryChecker&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="OpenCanaryChecker" /></a>
-    </td>
-  </tr>
-</table>
+
+| Project | Description |
+|---------|-------------|
+| [**OpenCanaryChecker**](https://github.com/7h30th3r0n3/OpenCanaryChecker) | Monitoring agent for OpenCanary honeypots |
+
 </div>
 
 ---
@@ -162,18 +94,13 @@
 <p align="center">Vulnerability discovery and ethical proof-of-concept development.</p>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/7h30th3r0n3/CVE-2025-51586-PrestaShop-PoC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=7h30th3r0n3&repo=CVE-2025-51586-PrestaShop-PoC&description_lines_count=2&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=8b949e" alt="CVE-2025-51586" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://gist.github.com/7h30th3r0n3/eae27e0eed39741365c55dfd46b57dc8"><img src="https://img.shields.io/badge/CVE--2024--42533-StandVoice%20SQLi%20(CVSS%209.8)-critical?style=for-the-badge&color=dc2626" alt="CVE-2024-42533" /></a>
-      <br><br>
-      <a href="https://gist.github.com/7h30th3r0n3/1a0fadb19f1528e3d3f6bad9f680c3b0"><img src="https://img.shields.io/badge/CVE--2025--63292-Freebox%20IMSI%20Leak%20(EAP--SIM)-orange?style=for-the-badge&color=ea580c" alt="CVE-2025-63292" /></a>
-    </td>
-  </tr>
-</table>
+
+| CVE | Details |
+|-----|---------|
+| [**CVE-2025-51586**](https://github.com/7h30th3r0n3/CVE-2025-51586-PrestaShop-PoC) | PrestaShop vulnerability PoC |
+| [**CVE-2024-42533**](https://gist.github.com/7h30th3r0n3/eae27e0eed39741365c55dfd46b57dc8) | StandVoice SQLi (CVSS 9.8) |
+| [**CVE-2025-63292**](https://gist.github.com/7h30th3r0n3/1a0fadb19f1528e3d3f6bad9f680c3b0) | Freebox IMSI Leak (EAP-SIM) |
+
 </div>
 
 ---
