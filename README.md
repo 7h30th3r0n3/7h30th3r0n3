@@ -65,9 +65,9 @@
 | Project | Description |
 |---------|-------------|
 | [**StormInk**](https://github.com/7h30th3r0n3/StormInk) | Network printer exploitation toolkit |
-| [**WFOP**](https://github.com/7h30th3r0n3/WFOP) | WiFi Offensive Platform |
+| [**WFOP**](https://github.com/7h30th3r0n3/WFOP) | Checking which program opened a port |
 | [**adb-shot**](https://github.com/7h30th3r0n3/adb-shot) | Android screen capture & control via ADB |
-| [**WifiReplay**](https://github.com/7h30th3r0n3/WifiReplay) | WiFi deauth & replay attack tool |
+| [**WifiReplay**](https://github.com/7h30th3r0n3/WifiReplay) | WiFi replay attack tool |
 | [**RatioTracker**](https://github.com/7h30th3r0n3/RatioTracker) | Torrent tracker ratio pentesting tool |
 | [**Simple-Password-Session-Stealer**](https://github.com/7h30th3r0n3/Simple-Password-Session-Stealer) | simple linux stealer |
 | [**RTSP-Eyes**](https://github.com/7h30th3r0n3/RTSP-Eyes) | RTSP camera stream scanner & viewer |
