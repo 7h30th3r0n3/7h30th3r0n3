@@ -104,6 +104,7 @@
 | [**CVE-2025-63292**](https://gist.github.com/7h30th3r0n3/1a0fadb19f1528e3d3f6bad9f680c3b0) | Freebox IMSI Leak EAP-SIM (CVSS 4.3) |
 | [**CVE-2026-53625**](https://github.com/glpi-project/glpi/security/advisories/GHSA-94rp-v9f2-5rj7) | GLPI Privilege Escalation via authtype API manipulation (CVSS 7.5) |
 | [**CVE-2026-49469**](https://github.com/glpi-project/glpi/security/advisories/GHSA-3cgm-rj32-hfwf) | GLPI LDAP injection (CVSS 4.6) |
+| [**GHSA-g797-4rh6-m2xp**](https://github.com/nilsteampassnet/TeamPass/security/advisories/GHSA-g797-4rh6-m2xp) | TeamPass Authorization Bypass via copy_item (CVSS 6.5) |
 </div>
 
 ---
