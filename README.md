@@ -101,9 +101,9 @@
 | [**CVE-2024-42533**](https://gist.github.com/7h30th3r0n3/eae27e0eed39741365c55dfd46b57dc8) | StandVoice SQLi (CVSS 9.8) |
 | [**CVE-2026-39191**](https://gist.github.com/7h30th3r0n3/0417c90c483638a47c269ca535dfae99) | StandVoice SQLi to RCE (CVSS 10.0) |
 | [**CVE-2026-39192**](https://gist.github.com/7h30th3r0n3/d3063b5d02a41745bc5f2e4b44b272c1) | StandVoice Sensitive File Exposure (CVSS 7.5) |
-| [**CVE-2025-63292**](https://gist.github.com/7h30th3r0n3/1a0fadb19f1528e3d3f6bad9f680c3b0) | Freebox IMSI Leak (EAP-SIM) |
+| [**CVE-2025-63292**](https://gist.github.com/7h30th3r0n3/1a0fadb19f1528e3d3f6bad9f680c3b0) | Freebox IMSI Leak EAP-SIM (CVSS 4.3) |
 | [**CVE-2026-53625**](https://github.com/glpi-project/glpi/security/advisories/GHSA-94rp-v9f2-5rj7) | GLPI Privilege Escalation via authtype API manipulation (CVSS 7.5) |
-| [**CVE-2026-49469**](https://github.com/glpi-project/glpi/security/advisories/GHSA-3cgm-rj32-hfwf) |  GLPI LDAP injection |
+| [**CVE-2026-49469**](https://github.com/glpi-project/glpi/security/advisories/GHSA-3cgm-rj32-hfwf) | GLPI LDAP injection (CVSS 4.6) |
 </div>
 
 ---
